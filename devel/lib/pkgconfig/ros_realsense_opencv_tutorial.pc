@@ -1,0 +1,8 @@
+prefix=/home/woojin/ros_opencv/ros_realsense_opnecv_tutorial/devel
+
+Name: ros_realsense_opencv_tutorial
+Description: Description of ros_realsense_opencv_tutorial
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

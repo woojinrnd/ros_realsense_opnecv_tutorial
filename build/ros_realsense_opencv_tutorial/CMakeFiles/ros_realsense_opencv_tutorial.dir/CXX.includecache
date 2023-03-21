@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/woojin/ros_opencv/ros_realsense_opnecv_tutorial/src/ros_realsense_opencv_tutorial/src/ros_realsense_opencv_tutorial.cpp
+

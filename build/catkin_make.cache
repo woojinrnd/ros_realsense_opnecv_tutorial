@@ -1,0 +1,2 @@
+ros_realsense_opencv_tutorial
+-DCATKIN_WHITELIST_PACKAGES= -DCATKIN_DEVEL_PREFIX=/home/woojin/ros_opencv/ros_realsense_opnecv_tutorial/devel -DCMAKE_INSTALL_PREFIX=/home/woojin/ros_opencv/ros_realsense_opnecv_tutorial/install -G Unix Makefiles

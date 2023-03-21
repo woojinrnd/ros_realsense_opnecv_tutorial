@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/woojin/ros_opencv/ros_realsense_opnecv_tutorial/devel/setup.sh
